@@ -15,7 +15,7 @@ describe('AgregarComponent', () => {
 
   beforeEach(() => {
     fixture = TestBed.createComponent(AgregarComponent);
-    component = fixture.componentInstance;
+    component = fixture.componentInstance; 
     fixture.detectChanges();
   });
 

@@ -12,7 +12,7 @@ import { AgregarComponent } from './agregar/agregar.component';
     MainPageComponent,
     PersonajesComponent,
     AgregarComponent
-  //  AgrearComponent
+  
   ],
   exports:[
     MainPageComponent
