@@ -7,12 +7,14 @@ import { HeroesModule } from './heroes/heroes.module';
 import { ContadorModule } from './contador/contador.module';
 
 import { DbzModule } from './dbz/dbz.module';
+//import { Dbz } from './dbz.agrear/dbz.agrear.component';
 //import { ContadorComponent } from './contador/contador/contador.component';
 //import { MainPageComponent } from './dbz/main-page/main-page.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    //Dbz.AgrearComponent
   ],
   imports: [
     BrowserModule,
